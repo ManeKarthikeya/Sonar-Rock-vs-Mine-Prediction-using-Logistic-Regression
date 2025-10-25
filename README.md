@@ -80,6 +80,7 @@ input_data = (0.0307, 0.0523, 0.0653, 0.0521, 0.0611, 0.0577, 0.0665, 0.0664, 0.
 
 ├── sonar_rock_vs_mine_prediction_with_python.py  # Main Python script
 
-├── README.md                                     # Project description (this file)
+|── sonar_data.csv                           # Dataset (if included)
 
-└── sonar.all-data.csv                           # Dataset (if included)
+└── README.md                                     # Project description (this file)
+
